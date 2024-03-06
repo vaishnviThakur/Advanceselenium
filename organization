@@ -1,0 +1,3 @@
+String ORGNAME = eutil.getDataFromExcel("Organizations", 0, 1);
+	String GROUP = eutil.getDataFromExcel("Organizations", 1, 1);
+	
